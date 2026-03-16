@@ -21,3 +21,11 @@
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+`requirements.txt`
+```text
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.10.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
